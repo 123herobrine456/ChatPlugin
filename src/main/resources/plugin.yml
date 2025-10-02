@@ -1,0 +1,9 @@
+name: CustomizeChat
+version: '1.0'
+main: com.github.herobrine.customizeChat.CustomizeChat
+api-version: '1.20'
+prefix: CustomizeChat
+authors: [ 123herobrine456 ]
+description: A Customize Chat Plugin
+website: https://github.com/123herobrine456/ChatPlugin
+softdepend: [PlaceholderAPI]

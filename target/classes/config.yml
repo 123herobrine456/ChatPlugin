@@ -1,0 +1,9 @@
+# <player> = player name
+# <message> = player message
+# <prefix> show prefix
+# this plugin support MiniMessages
+
+messages:
+  join: "<green>[+] <white><player>"
+  leave: "<red>[-] <white><player>"
+  format: "<prefix><player> <gold>: <white><message>"
